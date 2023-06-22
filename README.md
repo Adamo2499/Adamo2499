@@ -1,6 +1,6 @@
 ### Hello, Adam here! 👋
 
-## 🤝 Contact me:
+<!--## 🤝 Contact me:-->
   <!-- Linkedin -->
   
 
