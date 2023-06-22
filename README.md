@@ -1,8 +1,20 @@
 ### Hello, Adam here! 👋
 
-🔭 I’m currently working on Challenge Maker to The Binding of Isaac: Repentance
+## 🤝 Contact me:
+  <!-- Linkedin -->
+  
 
-🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot/)
+## 🔭 I’m currently working on:
+  - Challenge Maker to The Binding of Isaac: Repentance
+
+## 🌱 I’m currently learning:
+  - [Spring Boot](https://spring.io/projects/spring-boot/)
+  - Game Development Basics:
+    - [Unity](https://unity.com/)
+    - [PyGame](https://www.pygame.org/wiki/GettingStarted)
+    - [Godot Engine](https://godotengine.org/)
+
+## My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adamo2499&show_icons=true&rank_icon=github&theme=transparent" />
