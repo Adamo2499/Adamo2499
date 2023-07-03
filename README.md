@@ -7,13 +7,12 @@
 ## 🔭 I’m currently working on:
   - Challenge Maker to The Binding of Isaac: Repentance
   - Level creator to I.RULE Campaign Mod
+  - Website about coins, collections and transactions (Spring Boot)
 
 ## 🌱 I’m currently learning:
   - [Spring Boot](https://spring.io/projects/spring-boot/)
-  - Game Development Basics:
-    - [Unity](https://unity.com/)
-    - [PyGame](https://www.pygame.org/wiki/GettingStarted)
-    - [Godot Engine](https://godotengine.org/)
+  - [Spring Security](https://spring.io/projects/spring-security)
+  - [PyGame](https://www.pygame.org/wiki/GettingStarted)
 
 ## My stats:
 
