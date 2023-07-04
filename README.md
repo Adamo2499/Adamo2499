@@ -1,8 +1,9 @@
 ### Hello, Adam here! 👋
 
-<!--## 🤝 Contact me:-->
-  <!-- Linkedin -->
-  
+About me:
+- Level 23
+- Student of Computer Science at the [Gdynia Maritime University](https://umg.edu.pl)
+- <a href="https://www.linkedin.com/in/adambieszk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/>My LinkedIn Profile</a>
 
 ## 🔭 I’m currently working on:
   - Challenge Maker to The Binding of Isaac: Repentance
