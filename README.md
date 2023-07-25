@@ -6,9 +6,10 @@ About me:
 - <a href="https://www.linkedin.com/in/adambieszk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/>My LinkedIn Profile</a>
 
 ## 🔭 I’m currently working on:
-  - Challenge Maker to The Binding of Isaac: Repentance
-  - Level creator to I.RULE Campaign Mod
+  - Challenge Maker to The Binding of Isaac: Repentance (C#, WPF, XAML)
+  - Level creator to I.RULE Campaign Mod (C#, WPF, XAML)
   - Website about coins, collections and transactions (Spring Boot)
+  - Image editing tool (PHP + GdImage)
 
 ## 🌱 I’m currently learning:
   - [Spring Boot](https://spring.io/projects/spring-boot/)
