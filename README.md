@@ -7,13 +7,9 @@ About me:
 
 ## 🔭 I’m currently working on:
   - Level creator to I.RULE Campaign Mod (HTML, CSS, PHP)
-  - Website about coins, collections and transactions (Spring Boot)
-  - Image editing tool (PHP + GdImage)
 
 ## 🌱 I’m currently learning:
-  - [Spring Boot](https://spring.io/projects/spring-boot/)
-  - [Spring Security](https://spring.io/projects/spring-security)
-  - [PyGame](https://www.pygame.org/wiki/GettingStarted)
+  - [Slim](https://www.slimframework.com/docs/v4/)
 
 ## My stats:
 
