@@ -49,8 +49,8 @@
 
 
 ## 🔭 Current side projects:
-- Usage of heuristic Algorithms in Team Foundation in Social Networks (Theses paper)  (Java)
 - Bunch of mods for The Binding of Isaac: Repentance (Lua)
+- Webpage with available mods for I.RULE game (Laravel)
   
 ## My stats:
 
