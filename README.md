@@ -1,6 +1,6 @@
 # Hello, Adam here! 👋
 
-## About me:
+## 💁 About me:
 - 25 years old
 - Live in Poland 
 - Amateur modder and spriter 
@@ -32,7 +32,10 @@
 
 [![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff)](#)
+
 
 ### Linux Distros:
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](#)
@@ -49,9 +52,11 @@
   - [Enhanced Boss Bars addon for Fall From Grace]()
 - [IMOD](https://imod-main-avi9vm.laravel.cloud) - mods marketplace for [I.RULE](https://doctorhummer.itch.io/irule)
   
-## My stats:
+## 📊 Github stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamo2499&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adamo2499&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adamo2499&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adamo2499&theme=transparent)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamo2499&theme=transparent&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
